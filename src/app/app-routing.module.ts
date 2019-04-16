@@ -30,6 +30,7 @@ export const routes: Routes = [
     }
   },
   {path: 'search', component: SearchComponent},
+  {path: 'home', component: HomeComponent},
 
   {
     path: 'register',
